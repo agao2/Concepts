@@ -1,0 +1,11 @@
+C:\Users\Alex\Desktop\Concepts\ReferenceSemantics\bin\Debug\netcoreapp2.0\ReferenceSemantics.deps.json
+C:\Users\Alex\Desktop\Concepts\ReferenceSemantics\bin\Debug\netcoreapp2.0\ReferenceSemantics.runtimeconfig.json
+C:\Users\Alex\Desktop\Concepts\ReferenceSemantics\bin\Debug\netcoreapp2.0\ReferenceSemantics.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\Concepts\ReferenceSemantics\bin\Debug\netcoreapp2.0\ReferenceSemantics.dll
+C:\Users\Alex\Desktop\Concepts\ReferenceSemantics\bin\Debug\netcoreapp2.0\ReferenceSemantics.pdb
+C:\Users\Alex\Desktop\Concepts\ReferenceSemantics\obj\Debug\netcoreapp2.0\ReferenceSemantics.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Concepts\ReferenceSemantics\obj\Debug\netcoreapp2.0\ReferenceSemantics.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Concepts\ReferenceSemantics\obj\Debug\netcoreapp2.0\ReferenceSemantics.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Concepts\ReferenceSemantics\obj\Debug\netcoreapp2.0\ReferenceSemantics.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Concepts\ReferenceSemantics\obj\Debug\netcoreapp2.0\ReferenceSemantics.dll
+C:\Users\Alex\Desktop\Concepts\ReferenceSemantics\obj\Debug\netcoreapp2.0\ReferenceSemantics.pdb

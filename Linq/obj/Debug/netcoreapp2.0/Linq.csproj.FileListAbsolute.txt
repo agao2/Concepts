@@ -1,0 +1,11 @@
+C:\Users\Alex\Desktop\Concepts\Linq\bin\Debug\netcoreapp2.0\Linq.deps.json
+C:\Users\Alex\Desktop\Concepts\Linq\bin\Debug\netcoreapp2.0\Linq.runtimeconfig.json
+C:\Users\Alex\Desktop\Concepts\Linq\bin\Debug\netcoreapp2.0\Linq.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\Concepts\Linq\bin\Debug\netcoreapp2.0\Linq.dll
+C:\Users\Alex\Desktop\Concepts\Linq\bin\Debug\netcoreapp2.0\Linq.pdb
+C:\Users\Alex\Desktop\Concepts\Linq\obj\Debug\netcoreapp2.0\Linq.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Concepts\Linq\obj\Debug\netcoreapp2.0\Linq.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Concepts\Linq\obj\Debug\netcoreapp2.0\Linq.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Concepts\Linq\obj\Debug\netcoreapp2.0\Linq.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Concepts\Linq\obj\Debug\netcoreapp2.0\Linq.dll
+C:\Users\Alex\Desktop\Concepts\Linq\obj\Debug\netcoreapp2.0\Linq.pdb
