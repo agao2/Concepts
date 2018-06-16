@@ -102,6 +102,8 @@ namespace Linq
             // To remove duplicates from a single set do 
             var distinct = innerJoin.Distinct();
             Console.WriteLine(string.Join(" " , distinct.ToList()));
+
+
         }
 
         class Category 
