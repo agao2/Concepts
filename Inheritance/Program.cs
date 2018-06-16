@@ -13,6 +13,9 @@ namespace Inheritance
              */
             Cat cat = new Cat("Zoey" ,"2013");
 
+            // Notice how creating a second new instance below does not call the static constructor!
+            // this is because the static constructor is only called before the first instance
+            // is created
             Cat cat2 = new Cat("Simbah" , "2015");
 
 
