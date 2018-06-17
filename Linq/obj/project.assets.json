@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Concepts\\Linq\\Linq.csproj",
+      "projectUniqueName": "E:\\VisualStudioProj\\Concepts\\Linq\\Linq.csproj",
       "projectName": "Linq",
-      "projectPath": "C:\\Users\\Alex\\Desktop\\Concepts\\Linq\\Linq.csproj",
+      "projectPath": "E:\\VisualStudioProj\\Concepts\\Linq\\Linq.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\Desktop\\Concepts\\Linq\\obj\\",
+      "outputPath": "E:\\VisualStudioProj\\Concepts\\Linq\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

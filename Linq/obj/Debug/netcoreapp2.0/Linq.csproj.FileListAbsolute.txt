@@ -9,3 +9,13 @@ C:\Users\Alex\Desktop\Concepts\Linq\obj\Debug\netcoreapp2.0\Linq.AssemblyInfoInp
 C:\Users\Alex\Desktop\Concepts\Linq\obj\Debug\netcoreapp2.0\Linq.AssemblyInfo.cs
 C:\Users\Alex\Desktop\Concepts\Linq\obj\Debug\netcoreapp2.0\Linq.dll
 C:\Users\Alex\Desktop\Concepts\Linq\obj\Debug\netcoreapp2.0\Linq.pdb
+E:\VisualStudioProj\Concepts\Linq\bin\Debug\netcoreapp2.0\Linq.deps.json
+E:\VisualStudioProj\Concepts\Linq\bin\Debug\netcoreapp2.0\Linq.runtimeconfig.json
+E:\VisualStudioProj\Concepts\Linq\bin\Debug\netcoreapp2.0\Linq.runtimeconfig.dev.json
+E:\VisualStudioProj\Concepts\Linq\bin\Debug\netcoreapp2.0\Linq.dll
+E:\VisualStudioProj\Concepts\Linq\bin\Debug\netcoreapp2.0\Linq.pdb
+E:\VisualStudioProj\Concepts\Linq\obj\Debug\netcoreapp2.0\Linq.csproj.CoreCompileInputs.cache
+E:\VisualStudioProj\Concepts\Linq\obj\Debug\netcoreapp2.0\Linq.AssemblyInfoInputs.cache
+E:\VisualStudioProj\Concepts\Linq\obj\Debug\netcoreapp2.0\Linq.AssemblyInfo.cs
+E:\VisualStudioProj\Concepts\Linq\obj\Debug\netcoreapp2.0\Linq.dll
+E:\VisualStudioProj\Concepts\Linq\obj\Debug\netcoreapp2.0\Linq.pdb

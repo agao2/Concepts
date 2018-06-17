@@ -10,7 +10,8 @@ namespace Linq
         static void Main(string[] args)
         {
             //LinqIntro();
-            Joining();
+            //Joining();
+            Grouping();
         }
 
         public static void LinqIntro()
@@ -105,6 +106,38 @@ namespace Linq
 
 
         }
+
+
+        public static void Grouping()
+        {
+            /*
+            Grouping in LINQ essentially lets you section off the data returned by your query into groups 
+            All the items in that specific group would share a common attribute that you specified
+             */
+
+            List<int> numbers = new List<int>() { 35, 44, 200, 84, 3987, 4, 199, 329, 446, 208 };  
+
+            var query = from number in numbers
+                        group number by number == 446;
+            
+            // notice that there are 2 groups, {true,false}. because the result of number == 446 can only be true and false
+            foreach(var group in query)
+            {
+                Console.WriteLine(group.Key); 
+            }
+
+            var query2 = from number in numbers
+                         group number by number % 3;
+            
+            // notice that there are 3 groups,  {0,1,2}. This is because there are 3 possible outcomes of number % 3
+            // int mod 3 can only be 0 , 1, or 2 so hence 3 groups
+            foreach(var group in query2)
+            {
+                Console.WriteLine(group.Key); 
+            }
+            
+        }
+
 
         class Category 
         {
