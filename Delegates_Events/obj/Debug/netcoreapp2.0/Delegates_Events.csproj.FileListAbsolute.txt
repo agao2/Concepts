@@ -1,0 +1,10 @@
+E:\VisualStudioProj\Concepts\Delegates_Events\bin\Debug\netcoreapp2.0\Delegates_Events.deps.json
+E:\VisualStudioProj\Concepts\Delegates_Events\bin\Debug\netcoreapp2.0\Delegates_Events.runtimeconfig.json
+E:\VisualStudioProj\Concepts\Delegates_Events\bin\Debug\netcoreapp2.0\Delegates_Events.runtimeconfig.dev.json
+E:\VisualStudioProj\Concepts\Delegates_Events\bin\Debug\netcoreapp2.0\Delegates_Events.dll
+E:\VisualStudioProj\Concepts\Delegates_Events\bin\Debug\netcoreapp2.0\Delegates_Events.pdb
+E:\VisualStudioProj\Concepts\Delegates_Events\obj\Debug\netcoreapp2.0\Delegates_Events.csproj.CoreCompileInputs.cache
+E:\VisualStudioProj\Concepts\Delegates_Events\obj\Debug\netcoreapp2.0\Delegates_Events.AssemblyInfoInputs.cache
+E:\VisualStudioProj\Concepts\Delegates_Events\obj\Debug\netcoreapp2.0\Delegates_Events.AssemblyInfo.cs
+E:\VisualStudioProj\Concepts\Delegates_Events\obj\Debug\netcoreapp2.0\Delegates_Events.dll
+E:\VisualStudioProj\Concepts\Delegates_Events\obj\Debug\netcoreapp2.0\Delegates_Events.pdb

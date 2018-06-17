@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Concepts\\ReferenceSemantics\\ReferenceSemantics.csproj",
+      "projectUniqueName": "e:\\VisualStudioProj\\Concepts\\ReferenceSemantics\\ReferenceSemantics.csproj",
       "projectName": "ReferenceSemantics",
-      "projectPath": "C:\\Users\\Alex\\Desktop\\Concepts\\ReferenceSemantics\\ReferenceSemantics.csproj",
+      "projectPath": "e:\\VisualStudioProj\\Concepts\\ReferenceSemantics\\ReferenceSemantics.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\Desktop\\Concepts\\ReferenceSemantics\\obj\\",
+      "outputPath": "e:\\VisualStudioProj\\Concepts\\ReferenceSemantics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

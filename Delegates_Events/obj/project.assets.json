@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\VisualStudioProj\\Concepts\\Inheritance\\Inheritance.csproj",
-      "projectName": "Inheritance",
-      "projectPath": "e:\\VisualStudioProj\\Concepts\\Inheritance\\Inheritance.csproj",
+      "projectUniqueName": "E:\\VisualStudioProj\\Concepts\\Delegates_Events\\Delegates_Events.csproj",
+      "projectName": "Delegates_Events",
+      "projectPath": "E:\\VisualStudioProj\\Concepts\\Delegates_Events\\Delegates_Events.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "e:\\VisualStudioProj\\Concepts\\Inheritance\\obj\\",
+      "outputPath": "E:\\VisualStudioProj\\Concepts\\Delegates_Events\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
